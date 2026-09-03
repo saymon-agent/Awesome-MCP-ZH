@@ -740,6 +740,7 @@ MCP 客户端是 AI 的“操作台”，以下是几个热门选择：
 | [Solana Agent Kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server) | 使用 Solana Agent Kit 与 Solana 区块链交互，支持 40+ 协议操作。                                        | 社区实现, TypeScript 开发, Solana 链交互。                                                         |
 | [AlphaVantage](https://github.com/calvernaz/alphavantage)                          | AlphaVantage 股票市场数据 API 服务器。                                                              | 社区实现, Python 开发, AlphaVantage 金融数据。                                                      |
 | [xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402)                    | x402 支付协议资源目录，包含 MCP 服务器、SDK 和工具，用于基于 HTTP 402 的 USDC 支付（支持 Base、Arbitrum 等 EVM 链）。 | 社区实现, 云服务 ☁️, x402 协议生态资源汇总。                                                         |
+| [saymon-agent/payforapi](https://github.com/saymon-agent/payforapi) | 俄罗斯商业数据 x402 API：ЕГРЮЛ 公司注册信息、俄邮物流跟踪、汇率与加密行情等 18 个付费端点，按次付费（USDC on Base），无需 API Key。 | 社区实现, 云服务 ☁️, x402 支付, 俄罗斯数据, 按次付费。 |
 | [Horus Flow Intelligence](https://github.com/horustechltd/horus-flow-mcp) | 加密货币与美股订单流分析 MCP 服务器：币安 L2 实时订单流、美股订单流与多资产扫描，提供微观结构分析与欺骗（spoofing）检测信号。 | 社区实现, Python 开发 🐍, 本地运行 🏠, MIT 许可, 3 个工具。 |
 
 ---
